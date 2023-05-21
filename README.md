@@ -52,8 +52,8 @@ My name is Victor Z. Penna, I am from São Paulo, Brazil.<br>
 <!-- https://skillicons.dev/ -->
 <!--Icons: https://github.com/tandpfun/skill-icons#readme -->
 ### Skills in improvement:
-[![My Skills](https://skillicons.dev/icons?i=git,postman,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)<br>
-Git, Postman, MySql, Docker, Html, CSS and JavaScrpit.
+[![My Skills](https://skillicons.dev/icons?i=git,js,postman,mysql,docker,html,css,gherkin&theme=light)](https://github.com/caiobello/)<br>
+Git, JavaScrpit Postman, MySql, Docker, Html, CSS, and Gherkin.
  <br>
  
  #
