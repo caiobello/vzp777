@@ -65,7 +65,7 @@ Visual Studio Code.
 
 #
 
-### Competências
+### More Skills:
 * Jira;
 * QXDM-Qualcom(analise de log);
 * Elt-MediaTek(analise de log);
@@ -75,17 +75,15 @@ Visual Studio Code.
 * Metodologia Ágil (Scrum, Kamban);
 * BDD.
 
-### Cursos/Atividades Complementares
+<!-- ### Complementary Courses/Activities:
 * Introdução a programação (EBAC)
 * Testes automáticos + Curso completo de Teste de software (Udemy Concluido);
 * O curso completo de Banco de Dados e SQL, sem mistérios (Udemy Cursando);
 * Testes funcionais com Selenium WebDriver: Do básico ao GRID (Udemy Cursando);
 * HTML e CSS Básico;
-* Excel Básico;
+* Excel Básico; -->
 
-### Another tools:
-Gradle, MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
-<br>
+
 #
 
 <!-- https://github.com/iuricode/readme-template/blob/main/badges/badges.md -->
